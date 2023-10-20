@@ -1,0 +1,46 @@
+body{
+    background-color: red;
+}
+.w4{
+display: flex;
+justify-content: space-around;
+}
+.w1{
+    width: 24%;
+    height: 500px;
+    background-color: blue;
+    font-size: 40px;
+}
+@media (min-width: 80px) and (max-width: 1000px) { 
+    body{
+        background-color: black;
+        padding: 5px;
+    }
+    .w1{
+        font-size: 15px;
+        width: 50px;
+    }
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

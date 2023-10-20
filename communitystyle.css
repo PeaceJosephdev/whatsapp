@@ -1,0 +1,127 @@
+.bodi{
+    width: 390px;
+    height: 844px;
+    background-color: black;
+    border-radius: 10px;
+margin-left: 40%;
+
+
+}
+.pa{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 120px;
+    
+    
+}
+.nab{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(19,19,19);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+    
+
+
+}
+.new{
+    width: 80%;
+    height: 50px;
+    border-radius: 10px;
+    align-items: center;
+    background-color: rgb(19,19,19);
+    padding: 10px;
+
+    margin-left: 10%;
+    display: flex;
+}
+.img{
+    width: 35px;
+    height: 35px;
+    display: flex;
+    margin-left: 10px;
+    
+}
+.ar{
+    color: white;
+    font-size: 14px;
+    margin-left: 20px;
+}
+.di{
+    width: 80%;
+    height: 270px;
+    border-radius: 10px;
+    margin-top: 40px;
+    padding: 10px;
+    background-color: rgb(19,19,19);
+    margin-left: 10%;
+
+}
+.di2{
+    width: 80%;
+    height: 270px;
+    border-radius: 10px;
+    margin-top: 40px;
+    padding: 10px;
+    background-color: rgb(19,19,19);
+    margin-left: 10%;
+}
+.ig{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.ih{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(4, 31, 85);
+}
+.il{
+    width: 50px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(4, 31, 85);
+}
+.i{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px; 
+}
+.un{
+    font-size: 13px;
+    color: white;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.in{
+    font-size: 12px;
+    color: rgb(106, 106, 106);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.ii{
+    display: flex;
+}
+.ra{
+    color: rgb(80, 80, 80);
+    margin-left: 20px;
+}
+.g{
+    width: 15px;
+}
+.gs{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(80, 80, 80);
+}
